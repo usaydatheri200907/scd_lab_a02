@@ -1,0 +1,50 @@
+
+.employee-profile-container {
+    min-height: 100vh; 
+  }
+  
+.employee-profile-container {
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+  }
+  
+  .employee-profile-container h2 {
+    font-size: 28px;
+    color: #333;
+    margin-bottom: 15px;
+  }
+  
+  .employee-profile-container p {
+    margin: 10px 0;
+    color: #666;
+  }
+  
+  .employee-profile-container h3 {
+    font-size: 24px;
+    color: #333;
+    margin-top: 20px;
+  }
+  
+  .employee-profile-container ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .employee-profile-container li {
+    margin-bottom: 15px;
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 15px;
+  }
+  
+  .employee-profile-container strong {
+    color: #007bff;
+  }
+  
+  .employee-profile-container p {
+    color: #555;
+  }
+    
